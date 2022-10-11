@@ -8,3 +8,4 @@
 7-everybody  giving execute permission to everybody
 8-james bond giving permissions to others only
 9-joe doe    giving read, write, execute permission to owner,group r,x and others w,x
+10-mirror permissions making hello file permissions similar to olleh file

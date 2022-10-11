@@ -10,3 +10,4 @@
 9-Joe_Doe    giving read, write, execute permission to owner,group r,x and others w,x
 10-mirror_permissions making hello file permissions similar to olleh file
 11-directories_permissions changing permissions of subdirectories
+12-directories_permissions making dir with 751 permissions

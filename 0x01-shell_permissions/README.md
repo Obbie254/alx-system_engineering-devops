@@ -7,3 +7,4 @@
 6-multiple_permission giving permissions to user, group and others
 7-everybody  giving execute permission to everybody
 8-james bond giving permissions to others only
+9-joe doe    giving read, write, execute permission to owner,group r,x and others w,x

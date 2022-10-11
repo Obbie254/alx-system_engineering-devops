@@ -3,3 +3,4 @@
 2-hellofile 		outputs contents of passwd.
 3-twofiles		outputs two files.
 4-lastlines		diplays last 10 lines.
+5-firstlines		displays first 10 lines.

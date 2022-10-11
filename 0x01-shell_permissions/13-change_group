@@ -1,2 +1,2 @@
 #!/bin/bash
-add group school hello
+addgroup school hello

@@ -6,6 +6,7 @@
 5-execute    adding execute permission to the owner
 6-multiple_permission giving permissions to user, group and others
 7-everybody  giving execute permission to everybody
-8-james bond giving permissions to others only
-9-joe doe    giving read, write, execute permission to owner,group r,x and others w,x
-10-mirror permissions making hello file permissions similar to olleh file
+8-James_Bond giving permissions to others only
+9-Joe_Doe    giving read, write, execute permission to owner,group r,x and others w,x
+10-mirror_permissions making hello file permissions similar to olleh file
+11-directories_permissions changing permissions of subdirectories

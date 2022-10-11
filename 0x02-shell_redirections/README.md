@@ -5,3 +5,4 @@
 4-lastlines		diplays last 10 lines.
 5-firstlines		displays first 10 lines.
 6-third_line		displays the third line.
+7-file			creates file name with special characters

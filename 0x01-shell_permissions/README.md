@@ -13,3 +13,4 @@
 12-directories_permissions making dir with 751 permissions
 13-change_group changing the group of a file.
 100-change_owner_and_group changing both owner and group.
+101-symbolic_link_permissions changing owner and group of a symbolic link.

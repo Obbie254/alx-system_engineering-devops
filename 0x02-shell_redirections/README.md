@@ -7,3 +7,4 @@
 6-third_line		displays the third line.
 7-file			creates file name with special characters
 8-cwd_state		creates/ adds a list to a file.
+9-duplicate_last_line	duplicating the last line.

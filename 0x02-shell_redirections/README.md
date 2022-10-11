@@ -6,3 +6,4 @@
 5-firstlines		displays first 10 lines.
 6-third_line		displays the third line.
 7-file			creates file name with special characters
+8-cwd_state		creates/ adds a list to a file.
